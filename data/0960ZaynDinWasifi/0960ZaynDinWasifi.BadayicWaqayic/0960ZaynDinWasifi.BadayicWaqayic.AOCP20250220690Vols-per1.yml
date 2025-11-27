@@ -1,5 +1,5 @@
 00#VERS#CLENGTH##: 770552
-00#VERS#LENGTH###: 190935
+00#VERS#LENGTH###: 190934
 00#VERS#URI######: 0960ZaynDinWasifi.BadayicWaqayic.AOCP20250220690Vols-per1
 80#VERS#BASED####: https://search.worldcat.org/title/5456729
 80#VERS#COLLATED#: permalink, permalink, permalink
@@ -13,4 +13,4 @@
     Transcription model used: all_arabic_scripts
     Average transcription confidence: 0.9650886114163668
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: UNCORRECTED_OCR
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION
